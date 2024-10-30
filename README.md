@@ -17,16 +17,15 @@ Prior to analysis, I imported the dataset into Power BI and transformed it on Po
 Visual representation of data offers intuitive insights. The following visuals will be incorporated in the report:
 #### Cards
 - Displaying the number of customers.
-- Showcasing the average of annual income/ average of spending score/ average of age.
+- Showcasing total amount spend in 2 years.
+- Representing the toal products and campaigns.
+- Representing the average of recency.
 #### Slicer
-- Resenting the age range.
+- Representing the age range/ Marital Status/ Education/ Kid Home/ Teen Home/ Product.
 #### Charts
-- Pie charts for Average spending score by Gender.
-- Stacked bar chart for showing Customer by Age group.
-- Line and Stacked bar chart for showing:
-  - Average spending score and Average annual income by Family size.
-  - Average spending score and Average annual income by Profession.
-  - Average annual income and Average work experience by Profession.
-- Table showing customer information.
+- Stacked bar chart for showing Total Spending by Product and Number of Purchase.
+- Pie charts for Accepted Campaign.
+- Stacked column chart for the Average Spending by Income & Product and the Average Spending by Age & Education.
+- Line and Stacked column chart for showing the Average Spending by Marital Status.
 
 Gratitude for your time!
