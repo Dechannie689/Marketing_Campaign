@@ -1,5 +1,5 @@
 # Marketing Campaign Analysis - Power BI
-![]()
+![](https://github.com/Dechannie689/Marketing_Campaign/blob/main/Marketing%20Campaign%20Analysis.png)
 ## Abstract
 This project leverages comprehensive data aggregation, analysis, and visualization in Power BI to uncover key insights into customer demographics. The Shop_Customer_Data.csv dataset analyzes how variables such as age, gender, annual income, profession, and spending score shape customer behavior and drive the shop’s growth.
 ## Data Manipulation
