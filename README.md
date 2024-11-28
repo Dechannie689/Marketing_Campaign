@@ -3,7 +3,6 @@
 ## Abstract
 The Marketing Campaign Dashboard visualizes key insights to provide a comprehensive overview of campaign performance in Power BI, leveraging a dataset sourced from marketing_campaign.csv. It provides a centralized hub for dissecting and optimizing the performance of marketing campaigns, enabling data-driven decision-making and helping businesses maximize their marketing ROI. 
 
-Please click [HERE](https://github.com/Dechannie689/Marketing_Campaign/blob/main/MarketingCampaignAnalysis_PowerBI.pbix) to read full dashboard.
 ## Data Manipulation
 Prior to analysis, I imported the dataset into Power BI and transformed it on Power Query Editor. Here are the step-by-step manipulations done on the source datasets:
 ### Step 1: Creation of Product & Amount Spend Column
