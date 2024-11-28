@@ -7,14 +7,7 @@ Please click [HERE](https://github.com/Dechannie689/Marketing_Campaign/blob/main
 ## Data Manipulation
 Prior to analysis, I imported the dataset into Power BI and transformed it on Power Query Editor. Here are the step-by-step manipulations done on the source datasets:
 ### Step 1: Creation of Product & Amount Spend Column
-- To better analyze the data, I used the Unpivot Columns feature in Power Query to transform:
-  - "MntWines" column,
-  - "MntFruits" column,
-  - "MntMeatProducts" column,
-  - "MntFishProducts" column,
-  - "MntSweetProducts" column,
-  - "MntGoldProds" column
-  - into "Product" and "Amount Spend" column.
+- To better analyze the data, I used the Unpivot Columns feature in Power Query to transform "MntWines" column, "MntFruits" column, "MntMeatProducts" column, "MntFishProducts" column, "MntSweetProducts" column, "MntGoldProds" column into "Product" and "Amount Spend" column.
 - Then, I used the Replace Values function to make the “Product” column more readable.
 ### Step 2: Creation of Campaign & Accepted Status Column
 - Similarly, I used the Unpivot Columns feature to transform "AcceptedCmp1" column, "AcceptedCmp2" column, "AcceptedCmp3" column, "AcceptedCmp4" column, "AcceptedCmp5" column into "Campaign" and "Accepted Status" column.
